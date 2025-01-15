@@ -1,11 +1,11 @@
 # Site settings
-title: 三叶草国际语
-SEOTitle: 三叶草国际语 - 让沟通更容易
-header-img: img/post-bg-desk.jpg
-email: klovien@gmail.com
-description: "中西融合, 即学即会, 从此不再辛苦背单词"
-keyword: "人工语言, 国际语, 世界语, 三叶草国际语, 三叶语"
-url: "https://klovien.github.io"          # your host, for absolute URL
+title: 一只蒟蒻的小窝
+SEOTitle: Zhangxiao666 的 个人 Blog
+header-img: https://cdn.luogu.com.cn/upload/usericon/742017.png
+email: 3672173503@qq.com
+description: 一些 Blog，包括OI算法，生活游记，工具软件
+keyword: "OIer，算法，游记，Blog"
+url: "https://spzx666.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/klovien/klovien.github.io.git" # you code repository
 
