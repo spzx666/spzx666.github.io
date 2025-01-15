@@ -7,7 +7,7 @@ description: 一些 Blog，包括OI算法，生活游记，工具软件
 keyword: "OIer，算法，游记，Blog"
 url: "https://spzx666.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/klovien/klovien.github.io.git" # you code repository
+github_repo: "https://github.com/spzx666/spzx666.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
