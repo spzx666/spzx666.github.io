@@ -1,9 +1,9 @@
 # Site settings
 title: 一只蒟蒻的小窝
 SEOTitle: "Zhangxiao666 的 个人 Blog"
-header-img: https://cdn.luogu.com.cn/upload/usericon/742017.png
+header-img: "https://cdn.luogu.com.cn/upload/usericon/742017.png"
 email: 3672173503@qq.com
-description: 一些 Blog，包括OI算法，生活游记，工具软件
+description: "一些 Blog，包括OI算法，生活游记，工具软件"
 keyword: "OIer，算法，游记，Blog"
 url: "https://spzx666.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
