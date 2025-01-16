@@ -100,16 +100,16 @@ service-worker: true
 friends: [
     {
         title: "洛谷：计算机学新生态",
-        href: "www.luogu.com.cn/user/742017"
+        href: "https://www.luogu.com.cn/user/742017"
     },{
         title: "Codeforces",
-        href: "www.codeforces.com/zhangxiao666"
+        href: "https://codeforces.com/zhangxiao666"
     },{
         title: "Codeforces(小号)",
-        href: "www.codeforces.com/zx666qwq"
+        href: "https://codeforces.com/zx666qwq"
     },{
         title: "Atcoder",
-        href: "atcoder.jp/zhangxiao666"
+        href: "https://atcoder.jp/zhangxiao666"
     }
     
 ]
