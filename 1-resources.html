@@ -25,6 +25,30 @@ header-img: "img/post-bg-rwd.jpg"
         
 <h3 id="toc_0">手册类</h3>
 
+<!-- Gitalk 评论 start  -->
+{% if site.gitalk.enable %}
+<!-- Link Gitalk 的支持文件  -->
+<link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
+<script src="https://unpkg.com/gitalk@latest/dist/gitalk.min.js"></script>
+
+<div id="gitalk-container"></div>
+    <script type="text/javascript">
+    var gitalk = new Gitalk({
+
+    // gitalk的主要参数
+        clientID: `Ov23lio9DqjlJINXq8vq`,
+        clientSecret: `cc5657b05caf070889bf729d11624798903d3dd0`,
+        repo: `cangku`,
+        owner: 'spzx666',
+        admin: ['spzx666'],
+        id: 'resources',
+    
+    });
+    gitalk.render('gitalk-container');
+</script>
+{% endif %}
+<!-- Gitalk end -->
+
 <ul>
 <li><a href="{{site.baseurl}}/2018/12/10/三叶语简介">三叶语简介</a></li>
 <li><a href="{{site.baseurl}}/2019/01/11/三叶语概述">三叶语概述</a></li>
